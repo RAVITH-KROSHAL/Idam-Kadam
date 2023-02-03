@@ -1,0 +1,20 @@
+
+
+
+html, body{
+    margin: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+/*-----------------------Navbar----------------*/
+
+.nav{
+    background: rgb(35, 14, 14);
+    padding: 0 2rem;
+    height: 0rem;
+    min-height: 10vh;
+    overflow: hidden;
+}
+
+/*-----------x------------Navbar---------x-------*/
